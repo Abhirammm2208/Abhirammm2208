@@ -18,6 +18,7 @@
 
 | 🧠 Project | ⚙️ Tech Stack | 📝 Description |
 |------------|---------------|----------------|
+| 🤖 **AI Code Reviewer (Developer Assistant)** | Spring Boot, Spring AI (Gemini API), PostgreSQL, JPA, Lombok | An intelligent assistant that reviews code for optimization, bugs, security issues, and best practices using Gemini AI. Includes contextual memory, structured feedback, multi-mode prompting, and a dynamic UI dashboard for code quality visualization. |
 | 📧 **Batch Mail Sender** | Spring Boot, Spring Batch, SMTP, JavaMail | Automates sending of bulk personalized emails with scheduling and error handling |
 | 🎬 **Movie Review System** | MERN Stack | Movie rating & review app with user authentication, search, and filter features |
 | 🚦 **Smart Traffic Light System** | IoT, Node-RED, MQTT, ThingSpeak | Real-time LED traffic control based on ultrasonic sensor input and dashboard analytics |
