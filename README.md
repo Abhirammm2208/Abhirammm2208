@@ -8,7 +8,6 @@
 ## 👨‍💻 About Me  
 
 🎓 **Final-year Electronics and Communication Engineering (ECE)** student at **VIT-AP University**  
-💼 **Ex. Software Engineer Trainee** at **Wise Work (Bengaluru)**  
 🌐 Passionate about **Full Stack Development**, **IoT Automation**, and **Cloud Computing (AWS)**  
 📚 Always exploring how hardware and software come together to solve real-world challenges  
 
