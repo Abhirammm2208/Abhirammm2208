@@ -111,5 +111,5 @@
 
 ---
 
-⭐ **“Code. Create. Connect. Contribute.”**  
+⭐ **“Code. Create. Connect. Contribute, Repeat.”**  
 > _Building intelligent, scalable systems for the future 🌍_
